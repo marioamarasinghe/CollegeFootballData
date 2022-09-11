@@ -1,1 +1,1 @@
-This is the first upwork project worked on to get the college football data.
+This script will download college football data from the API and save it to a pandas dataframe then to a CSV file
